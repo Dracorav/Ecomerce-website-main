@@ -294,7 +294,27 @@ This project is configured for easy deployment to:
 
 See `QUICK_DEPLOYMENT.md` for detailed step-by-step instructions.
 
-## 🛒 User Stories
+## 🌐 Live Demo
+
+### ✨ Visit the Live Application
+
+**Frontend (React)** - Deployed on Vercel:
+- **URL:** [https://amaz-kart.vercel.app/](https://amaz-kart.vercel.app/)
+- **Status:** ✅ Live and publicly accessible
+- **Features:** Complete e-commerce interface with product browsing, cart, and search
+
+Click the link above to open the live website and start browsing products!
+
+### 📊 Project Deployment Info
+
+| Component | Platform | URL |
+|-----------|----------|-----|
+| **Frontend** | Vercel | [amaz-kart.vercel.app](https://amaz-kart.vercel.app/) |
+| **Backend API** | Render | *(Available for integration)* |
+| **Database** | MongoDB Atlas | *(Cloud-hosted, secured)* |
+| **Code Repository** | GitHub | [Ecomerce-website-main](https://github.com/Dracorav/Ecomerce-website-main) |
+
+## �🛒 User Stories
 
 - ✅ Browse a list of products in a responsive grid
 - ✅ View detailed product information
